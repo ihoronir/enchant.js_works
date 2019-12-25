@@ -1,2 +1,4 @@
 # code.9leap
-code.9leap.net で作った物のバックアップです。
+http://code.9leap.net で作った物のバックアップです。
+
+日付は最終編集日
